@@ -1,5 +1,5 @@
 # cmdHere
 
-Add "CMD Here" to the right-click menu in folders.
+Launch `cmdHere.reg`, then `CMD Here` will appear in your right click menu.
 
 ![](img/readme.png)
