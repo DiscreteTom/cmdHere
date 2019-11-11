@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\cmdPrompt]
-@="CMD Here(&~)"
+@="CMD Here(&`)"
 "Icon"="cmd.exe"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\cmdPrompt\command]
